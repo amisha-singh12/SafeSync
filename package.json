@@ -19,7 +19,11 @@
   "homepage": "https://github.com/amisha-singh12/SafeSync#readme",
   "description": "",
   "dependencies": {
+    "dotenv": "^17.2.4",
+    "dotgitignore": "^2.1.0",
     "ejs": "^4.0.1",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "express-validator": "^7.3.1",
+    "mongoose": "^9.2.1"
   }
 }
